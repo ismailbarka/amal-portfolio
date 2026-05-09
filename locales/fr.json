@@ -1,0 +1,302 @@
+{
+  "common": {
+    "language": "Français",
+    "siteName": "ABS Design",
+    "email": "absdesigne@gmail.com",
+    "phone": "+212 (0) XXX XXX XXX",
+    "address": "Casablanca, Anfa 20050",
+    "instagram": "designbyamale",
+    "allRightsReserved": "Tous droits réservés"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "portfolio": "Projets",
+    "references": "Références",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Architecture d'Intérieur de Prestige",
+    "subtitle": "Conception, expertise technique et sensibilité artistique pour vos espaces",
+    "cta": "Découvrir nos projets",
+    "tagline": "L'expertise, la confiance et l'esthétique"
+  },
+  "about": {
+    "pageTitle": "À Propos d'Amal MARHFOUR",
+    "pageDescription": "Découvrez l'histoire et l'expertise d'Amal MARHFOUR, fondatrice d'ABS Design",
+    "title": "Architecte d'Intérieur de Prestige",
+    "subtitle": "Fondatrice & Directrice d'ABS Design",
+    "bio": "Amal MARHFOUR est une architecte d'intérieur de renom, fondatrice et directrice d'ABS Design. Avec plus de 15 années d'expérience, elle crée des espaces qui conjuguent luxe, minimalisme et expertise technique.",
+    "philosophyTitle": "Notre Philosophie",
+    "philosophyText": "Chaque projet est une opportunité de créer des espaces qui racontent une histoire. Nous croyons que l'architecture d'intérieur est l'art de transformer des espaces en expériences sensorielles.",
+    "visionTitle": "Notre Vision",
+    "visionText": "Créer des environnements premium où la forme suit la fonction, où l'esthétique rencontre la praticité, et où chaque détail contribue à l'harmonie globale.",
+    "approachTitle": "Notre Approche",
+    "approachText": "Écoute attentive, analyse minutieuse, conception innovante et supervision personnelle de chaque projet.",
+    "valuesTitle": "Nos Valeurs",
+    "values": [
+      {
+        "title": "Excellence",
+        "description": "Nous visons la perfection dans chaque détail"
+      },
+      {
+        "title": "Intégrité",
+        "description": "Transparence et honnêteté avec nos clients"
+      },
+      {
+        "title": "Innovation",
+        "description": "Solutions créatives et avant-gardistes"
+      },
+      {
+        "title": "Expertise",
+        "description": "Maîtrise technique et sensibilité artistique"
+      }
+    ],
+    "expertiseTitle": "Domaines d'Expertise",
+    "expertise": [
+      "Conception d'intérieur résidentielle",
+      "Design d'espaces commerciaux et bancaires",
+      "Supervision de projets",
+      "Aménagement clé en main",
+      "Menuiserie et bois sur mesure",
+      "Tapisserie et ameublement",
+      "Design de cuisines",
+      "Conseils en mobilier"
+    ]
+  },
+  "services": {
+    "pageTitle": "Services d'Architecture d'Intérieur",
+    "pageDescription": "Découvrez nos services complets d'architecture d'intérieur et de design",
+    "title": "Nos Services",
+    "subtitle": "Solutions complètes pour vos projets d'intérieur",
+    "description": "Nous offrons une gamme complète de services d'architecture d'intérieur et de design pour transformer vos espaces.",
+    "learnMore": "En savoir plus",
+    "services": [
+      {
+        "title": "Design d'Intérieur",
+        "slug": "interior-design",
+        "description": "Conception complète d'espaces résidentiels et professionnels. Nous créons des environnements élégants et fonctionnels adaptés à votre mode de vie.",
+        "benefits": [
+          "Espaces harmonieux et équilibrés",
+          "Utilisation optimale des surfaces",
+          "Sélection de matériaux de qualité",
+          "Palettes de couleurs personnalisées"
+        ]
+      },
+      {
+        "title": "Conception 2D / 3D",
+        "slug": "concept-design",
+        "description": "Visualisations détaillées et réalistes de vos projets. Plans techniques et rendus 3D pour valider votre vision avant travaux.",
+        "benefits": [
+          "Rendus photoréalistes",
+          "Plans détaillés et précis",
+          "Simulations de matériaux",
+          "Prévisualisation complète"
+        ]
+      },
+      {
+        "title": "Suivi de Chantier",
+        "slug": "site-supervision",
+        "description": "Supervision personnelle et méthodique de l'exécution. Nous garantissons la conformité aux plans et la qualité des finitions.",
+        "benefits": [
+          "Contrôle qualité rigoureux",
+          "Respect des délais",
+          "Coordination des corps de métier",
+          "Gestion du budget"
+        ]
+      },
+      {
+        "title": "Rénovation Clé en Main",
+        "slug": "turnkey-renovation",
+        "description": "Service complet de rénovation de A à Z. Conception, fournitures, travaux et mise en place - nous gérons tout.",
+        "benefits": [
+          "Gestion globale du projet",
+          "Sérénité totale",
+          "Qualité garantie",
+          "Livraison clés en main"
+        ]
+      },
+      {
+        "title": "Menuiserie & Bois sur Mesure",
+        "slug": "woodwork",
+        "description": "Création de mobilier et d'éléments en bois sur mesure. Dressing, bibliothèques, portes et aménagements personnalisés.",
+        "benefits": [
+          "Designs uniques",
+          "Finitions haut de gamme",
+          "Utilisation optimale de l'espace",
+          "Durabilité et qualité"
+        ]
+      },
+      {
+        "title": "Tapisserie & Ameublement",
+        "slug": "upholstery",
+        "description": "Sélection et création de solutions de mobilier et de textile. Couvertures, housses et tapisseries sur mesure.",
+        "benefits": [
+          "Tissus premium sélectionnés",
+          "Travail artisanal",
+          "Personnalisation totale",
+          "Confort et durabilité"
+        ]
+      },
+      {
+        "title": "Expertise Mobilier",
+        "slug": "furniture-expertise",
+        "description": "Conseils en sélection et intégration de mobilier. Sourcing de pièces uniques et de designers renommés.",
+        "benefits": [
+          "Accès à des collections exclusives",
+          "Recommandations expertes",
+          "Harmonisation des styles",
+          "Optimisation budgétaire"
+        ]
+      },
+      {
+        "title": "Design de Cuisines",
+        "slug": "kitchen-design",
+        "description": "Conception de cuisines modernes et fonctionnelles. Aménagement optimal, électroménagers intégrés et finitions raffinées.",
+        "benefits": [
+          "Gain de place et fonctionnalité",
+          "Électroménagers haut de gamme",
+          "Solutions de rangement innovantes",
+          "Esthétique intemporelle"
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "pageTitle": "Projets & Portfolio",
+    "pageDescription": "Découvrez nos réalisations en architecture d'intérieur et design",
+    "title": "Nos Projets",
+    "subtitle": "Réalisations en architecture d'intérieur et design",
+    "filterAll": "Tous les projets",
+    "filterResidential": "Résidentiel",
+    "filterVillas": "Villas",
+    "filterOffices": "Bureaux",
+    "filterBanks": "Banques",
+    "filterKitchens": "Cuisines",
+    "filterFurniture": "Mobilier"
+  },
+  "projectDetail": {
+    "scope": "Périmètre",
+    "challenge": "Défi & Solution",
+    "designProcess": "Processus de Conception",
+    "materials": "Matériaux & Finitions",
+    "supervision": "Supervision de Chantier",
+    "gallery": "Galerie",
+    "nextProject": "Projet suivant",
+    "previousProject": "Projet précédent",
+    "inquire": "Nous contacter"
+  },
+  "references": {
+    "pageTitle": "Références & Clients",
+    "pageDescription": "Nos clients de confiance dans le secteur bancaire, commercial et résidentiel",
+    "title": "Nos Références",
+    "subtitle": "Institutions de confiance et partenaires renommés",
+    "bankingTitle": "Secteur Bancaire",
+    "bankingDesc": "Expertise reconnue en design d'espaces bancaires modernes et professionnels",
+    "residentialTitle": "Secteur Résidentiel",
+    "residentialDesc": "Réalisations prestigieuses dans les villas et appartements haut de gamme",
+    "professionalTitle": "Secteur Professionnel",
+    "professionalDesc": "Solutions d'aménagement pour espaces de travail et commerciaux",
+    "credentials": [
+      "Plus de 15 ans d'expertise",
+      "50+ projets réalisés",
+      "100% de clients satisfaits",
+      "Spécialiste reconnue du secteur bancaire"
+    ],
+    "testimonialTitle": "Témoignages",
+    "testimonials": [
+      {
+        "text": "Amal a transformé notre siège en un espace moderne et accueillant. Son expertise technique et sa sensibilité artistique sont remarquables.",
+        "author": "Direction - Banque Partenaire"
+      },
+      {
+        "text": "Un professionnalisme exemplaire, des délais respectés et des finitions impeccables. Nous recommandons vivement.",
+        "author": "Directeur Projet - Secteur Professionnel"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Contact & Consultation",
+    "pageDescription": "Contactez-nous pour discuter de votre projet d'architecture d'intérieur",
+    "title": "Prenons Contact",
+    "subtitle": "Discutons de votre projet",
+    "description": "Vous avez un projet en tête ? Contactez-nous pour une première consultation sans engagement. Nous écoutons, analysons et proposons des solutions sur mesure.",
+    "form": {
+      "name": "Nom",
+      "namePlaceholder": "Votre nom complet",
+      "email": "Email",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "phone": "Téléphone",
+      "phonePlaceholder": "+212 (0) XXX XXX XXX",
+      "projectType": "Type de projet",
+      "projectTypePlaceholder": "Sélectionner...",
+      "budget": "Budget estimé",
+      "budgetPlaceholder": "Sélectionner une fourchette...",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez votre projet...",
+      "submit": "Envoyer",
+      "submitting": "Envoi en cours...",
+      "success": "Message envoyé avec succès!",
+      "error": "Erreur lors de l'envoi. Veuillez réessayer."
+    },
+    "projectTypes": [
+      "Résidentiel",
+      "Villa",
+      "Bureau",
+      "Banque",
+      "Cuisine",
+      "Rénovation",
+      "Autre"
+    ],
+    "budgets": [
+      "Moins de 20 000 DH",
+      "20 000 - 50 000 DH",
+      "50 000 - 100 000 DH",
+      "100 000 - 250 000 DH",
+      "250 000+ DH"
+    ],
+    "infoTitle": "Nos Coordonnées",
+    "businessHoursTitle": "Horaires d'Ouverture",
+    "businessHours": [
+      "Lundi - Vendredi: 9h - 18h",
+      "Samedi: 10h - 15h",
+      "Dimanche: Fermé"
+    ],
+    "consultationCTA": "Prenez rendez-vous pour une consultation gratuite",
+    "faqTitle": "Questions Fréquentes",
+    "faq": [
+      {
+        "question": "Quel est le délai pour un projet?",
+        "answer": "Les délais varient selon la complexité du projet. Un petit projet peut prendre 2-3 mois, un projet complet 6-12 mois."
+      },
+      {
+        "question": "Travaillez-vous en dehors de Casablanca?",
+        "answer": "Oui, nous travaillons sur l'ensemble du Maroc et acceptons également les projets internationaux."
+      },
+      {
+        "question": "Quelle est la première étape?",
+        "answer": "Contactez-nous pour une première consultation. Nous écouterons vos besoins et proposerons une approche personnalisée."
+      }
+    ]
+  },
+  "footer": {
+    "aboutTitle": "ABS Design",
+    "about": "Architecture d'intérieur de prestige. Luxe, minimalisme et expertise technique pour transformer vos espaces.",
+    "quickLinksTitle": "Liens Rapides",
+    "servicesTitle": "Services",
+    "followTitle": "Nous Suivre",
+    "contactTitle": "Contact",
+    "language": "Langue"
+  },
+  "seo": {
+    "homeTitle": "ABS Design | Architecture d'Intérieur de Prestige",
+    "homeDescription": "Découvrez ABS Design, architecture d'intérieur de prestige par Amal MARHFOUR. Design résidentiel, commercial et bancaire à Casablanca.",
+    "aboutTitle": "À Propos d'Amal MARHFOUR | ABS Design",
+    "aboutDescription": "Découvrez l'histoire et l'expertise d'Amal MARHFOUR, architecte d'intérieur reconnue, fondatrice d'ABS Design.",
+    "servicesTitle": "Services d'Architecture d'Intérieur | ABS Design",
+    "servicesDescription": "Services complets d'architecture d'intérieur : design, conception 3D, supervision, rénovation clé en main, menuiserie et plus.",
+    "portfolioTitle": "Projets & Portfolio | ABS Design",
+    "portfolioDescription": "Découvrez nos réalisations en architecture d'intérieur : villas, appartements, bureaux, banques et plus."
+  }
+}

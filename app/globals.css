@@ -1,0 +1,147 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Luxury Interior Design Palette */
+  /* Backgrounds & Neutrals */
+  --background: #faf8f6;
+  --foreground: #2a2520;
+  --card: #ffffff;
+  --card-foreground: #2a2520;
+  --popover: #ffffff;
+  --popover-foreground: #2a2520;
+  
+  /* Primary & Accents */
+  --primary: #2a2520;
+  --primary-foreground: #faf8f6;
+  --secondary: #c5b8aa;
+  --secondary-foreground: #2a2520;
+  --muted: #e8dfd5;
+  --muted-foreground: #6b6359;
+  --accent: #d4af7a;
+  --accent-foreground: #2a2520;
+  
+  /* Borders & Controls */
+  --destructive: #c9302c;
+  --destructive-foreground: #ffffff;
+  --border: #e8dfd5;
+  --input: #f5f2ed;
+  --ring: #2a2520;
+  
+  /* Chart colors */
+  --chart-1: #c5b8aa;
+  --chart-2: #d4af7a;
+  --chart-3: #8b8278;
+  --chart-4: #b5a89c;
+  --chart-5: #9b8f82;
+  
+  /* Radius & Sidebar */
+  --radius: 0.25rem;
+  --sidebar: #faf8f6;
+  --sidebar-foreground: #2a2520;
+  --sidebar-primary: #2a2520;
+  --sidebar-primary-foreground: #faf8f6;
+  --sidebar-accent: #d4af7a;
+  --sidebar-accent-foreground: #2a2520;
+  --sidebar-border: #e8dfd5;
+  --sidebar-ring: #2a2520;
+}
+
+@theme inline {
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Playfair Display', serif;
+  --font-mono: 'Menlo', monospace;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  
+  html {
+    @apply bg-background;
+  }
+  
+  body {
+    @apply bg-background text-foreground;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-normal tracking-tight;
+  }
+  
+  h1 {
+    @apply text-5xl md:text-6xl lg:text-7xl leading-tight;
+  }
+  
+  h2 {
+    @apply text-4xl md:text-5xl leading-tight;
+  }
+  
+  h3 {
+    @apply text-2xl md:text-3xl;
+  }
+  
+  p {
+    @apply text-base leading-relaxed;
+  }
+  
+  /* Smooth animations */
+  @supports (animation-timeline: view()) {
+    .scroll-fade {
+      animation: fadeInUp forwards;
+      animation-timeline: view();
+      animation-range: entry 0% cover 30%;
+    }
+    
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  }
+}

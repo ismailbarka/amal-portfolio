@@ -1,0 +1,302 @@
+{
+  "common": {
+    "language": "English",
+    "siteName": "ABS Design",
+    "email": "absdesigne@gmail.com",
+    "phone": "+212 (0) XXX XXX XXX",
+    "address": "Casablanca, Anfa 20050",
+    "instagram": "designbyamale",
+    "allRightsReserved": "All rights reserved"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Projects",
+    "references": "References",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Interior Architecture",
+    "subtitle": "Design, technical expertise and artistic sensitivity for your spaces",
+    "cta": "Explore Our Work",
+    "tagline": "Expertise, trust and aesthetics"
+  },
+  "about": {
+    "pageTitle": "About Amal MARHFOUR",
+    "pageDescription": "Discover the story and expertise of Amal MARHFOUR, founder of ABS Design",
+    "title": "Premium Interior Architect",
+    "subtitle": "Founder & Director of ABS Design",
+    "bio": "Amal MARHFOUR is a renowned interior architect, founder and director of ABS Design. With over 15 years of experience, she creates spaces that combine luxury, minimalism and technical expertise.",
+    "philosophyTitle": "Our Philosophy",
+    "philosophyText": "Every project is an opportunity to create spaces that tell a story. We believe interior architecture is the art of transforming spaces into sensory experiences.",
+    "visionTitle": "Our Vision",
+    "visionText": "Creating premium environments where form follows function, where aesthetics meet practicality, and every detail contributes to overall harmony.",
+    "approachTitle": "Our Approach",
+    "approachText": "Attentive listening, meticulous analysis, innovative design and personal supervision of every project.",
+    "valuesTitle": "Our Values",
+    "values": [
+      {
+        "title": "Excellence",
+        "description": "We strive for perfection in every detail"
+      },
+      {
+        "title": "Integrity",
+        "description": "Transparency and honesty with our clients"
+      },
+      {
+        "title": "Innovation",
+        "description": "Creative and cutting-edge solutions"
+      },
+      {
+        "title": "Expertise",
+        "description": "Technical mastery and artistic sensitivity"
+      }
+    ],
+    "expertiseTitle": "Areas of Expertise",
+    "expertise": [
+      "Residential interior design",
+      "Commercial and banking space design",
+      "Project supervision",
+      "Turnkey renovation",
+      "Custom woodwork and joinery",
+      "Upholstery and furnishing",
+      "Kitchen design",
+      "Furniture consulting"
+    ]
+  },
+  "services": {
+    "pageTitle": "Interior Architecture Services",
+    "pageDescription": "Discover our comprehensive interior architecture and design services",
+    "title": "Our Services",
+    "subtitle": "Complete solutions for your interior projects",
+    "description": "We offer a comprehensive range of interior architecture and design services to transform your spaces.",
+    "learnMore": "Learn More",
+    "services": [
+      {
+        "title": "Interior Design",
+        "slug": "interior-design",
+        "description": "Complete design of residential and professional spaces. We create elegant and functional environments tailored to your lifestyle.",
+        "benefits": [
+          "Harmonious and balanced spaces",
+          "Optimal use of surfaces",
+          "Premium material selection",
+          "Custom color palettes"
+        ]
+      },
+      {
+        "title": "2D / 3D Concept",
+        "slug": "concept-design",
+        "description": "Detailed and realistic visualizations of your projects. Technical drawings and 3D renders to validate your vision before work begins.",
+        "benefits": [
+          "Photorealistic renderings",
+          "Detailed and accurate plans",
+          "Material simulations",
+          "Complete preview"
+        ]
+      },
+      {
+        "title": "Site Supervision",
+        "slug": "site-supervision",
+        "description": "Personal and meticulous supervision of execution. We ensure compliance with plans and quality of finishes.",
+        "benefits": [
+          "Rigorous quality control",
+          "Deadline compliance",
+          "Coordination of trades",
+          "Budget management"
+        ]
+      },
+      {
+        "title": "Turnkey Renovation",
+        "slug": "turnkey-renovation",
+        "description": "Complete end-to-end renovation service. Design, supplies, work and setup - we manage everything.",
+        "benefits": [
+          "Comprehensive project management",
+          "Complete peace of mind",
+          "Quality guaranteed",
+          "Turnkey delivery"
+        ]
+      },
+      {
+        "title": "Woodwork & Joinery",
+        "slug": "woodwork",
+        "description": "Creation of custom furniture and wooden elements. Wardrobes, shelving, doors and personalized layouts.",
+        "benefits": [
+          "Unique designs",
+          "Premium finishes",
+          "Optimal space utilization",
+          "Durability and quality"
+        ]
+      },
+      {
+        "title": "Upholstery & Furnishing",
+        "slug": "upholstery",
+        "description": "Selection and creation of furniture and textile solutions. Custom covers, slip covers and tapestries.",
+        "benefits": [
+          "Premium selected fabrics",
+          "Artisanal craftsmanship",
+          "Complete customization",
+          "Comfort and durability"
+        ]
+      },
+      {
+        "title": "Furniture Expertise",
+        "slug": "furniture-expertise",
+        "description": "Expert advice on furniture selection and integration. Sourcing of unique pieces and renowned designers.",
+        "benefits": [
+          "Access to exclusive collections",
+          "Expert recommendations",
+          "Style harmonization",
+          "Budget optimization"
+        ]
+      },
+      {
+        "title": "Kitchen Design",
+        "slug": "kitchen-design",
+        "description": "Design of modern and functional kitchens. Optimal layout, integrated appliances and refined finishes.",
+        "benefits": [
+          "Space gain and functionality",
+          "Premium appliances",
+          "Innovative storage solutions",
+          "Timeless aesthetics"
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "pageTitle": "Projects & Portfolio",
+    "pageDescription": "Discover our interior architecture and design projects",
+    "title": "Our Projects",
+    "subtitle": "Interior architecture and design realizations",
+    "filterAll": "All Projects",
+    "filterResidential": "Residential",
+    "filterVillas": "Villas",
+    "filterOffices": "Offices",
+    "filterBanks": "Banks",
+    "filterKitchens": "Kitchens",
+    "filterFurniture": "Furniture"
+  },
+  "projectDetail": {
+    "scope": "Scope",
+    "challenge": "Challenge & Solution",
+    "designProcess": "Design Process",
+    "materials": "Materials & Finishes",
+    "supervision": "Site Supervision",
+    "gallery": "Gallery",
+    "nextProject": "Next Project",
+    "previousProject": "Previous Project",
+    "inquire": "Contact Us"
+  },
+  "references": {
+    "pageTitle": "References & Clients",
+    "pageDescription": "Our trusted clients in banking, commercial and residential sectors",
+    "title": "Our References",
+    "subtitle": "Trusted institutions and renowned partners",
+    "bankingTitle": "Banking Sector",
+    "bankingDesc": "Recognized expertise in modern and professional banking space design",
+    "residentialTitle": "Residential Sector",
+    "residentialDesc": "Prestigious achievements in high-end villas and apartments",
+    "professionalTitle": "Professional Sector",
+    "professionalDesc": "Layout solutions for workspaces and commercial areas",
+    "credentials": [
+      "Over 15 years of expertise",
+      "50+ completed projects",
+      "100% client satisfaction",
+      "Recognized banking sector specialist"
+    ],
+    "testimonialTitle": "Testimonials",
+    "testimonials": [
+      {
+        "text": "Amal transformed our headquarters into a modern and welcoming space. Her technical expertise and artistic sensitivity are remarkable.",
+        "author": "Management - Partner Bank"
+      },
+      {
+        "text": "Exemplary professionalism, respected deadlines and impeccable finishes. We highly recommend.",
+        "author": "Project Manager - Professional Sector"
+      }
+    ]
+  },
+  "contact": {
+    "pageTitle": "Contact & Consultation",
+    "pageDescription": "Contact us to discuss your interior architecture project",
+    "title": "Let's Get In Touch",
+    "subtitle": "Let's discuss your project",
+    "description": "Have a project in mind? Contact us for an initial consultation with no commitment. We listen, analyze and propose tailored solutions.",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+212 (0) XXX XXX XXX",
+      "projectType": "Project Type",
+      "projectTypePlaceholder": "Select...",
+      "budget": "Estimated Budget",
+      "budgetPlaceholder": "Select a range...",
+      "message": "Message",
+      "messagePlaceholder": "Describe your project...",
+      "submit": "Send",
+      "submitting": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    },
+    "projectTypes": [
+      "Residential",
+      "Villa",
+      "Office",
+      "Bank",
+      "Kitchen",
+      "Renovation",
+      "Other"
+    ],
+    "budgets": [
+      "Less than 20,000 DH",
+      "20,000 - 50,000 DH",
+      "50,000 - 100,000 DH",
+      "100,000 - 250,000 DH",
+      "250,000+ DH"
+    ],
+    "infoTitle": "Contact Information",
+    "businessHoursTitle": "Business Hours",
+    "businessHours": [
+      "Monday - Friday: 9am - 6pm",
+      "Saturday: 10am - 3pm",
+      "Sunday: Closed"
+    ],
+    "consultationCTA": "Schedule a free consultation",
+    "faqTitle": "Frequently Asked Questions",
+    "faq": [
+      {
+        "question": "What is the timeline for a project?",
+        "answer": "Timelines vary depending on project complexity. A small project may take 2-3 months, a complete project 6-12 months."
+      },
+      {
+        "question": "Do you work outside Casablanca?",
+        "answer": "Yes, we work throughout Morocco and also accept international projects."
+      },
+      {
+        "question": "What's the first step?",
+        "answer": "Contact us for an initial consultation. We will listen to your needs and propose a personalized approach."
+      }
+    ]
+  },
+  "footer": {
+    "aboutTitle": "ABS Design",
+    "about": "Premium interior architecture. Luxury, minimalism and technical expertise to transform your spaces.",
+    "quickLinksTitle": "Quick Links",
+    "servicesTitle": "Services",
+    "followTitle": "Follow Us",
+    "contactTitle": "Contact",
+    "language": "Language"
+  },
+  "seo": {
+    "homeTitle": "ABS Design | Premium Interior Architecture",
+    "homeDescription": "Discover ABS Design, premium interior architecture by Amal MARHFOUR. Residential, commercial and banking design in Casablanca.",
+    "aboutTitle": "About Amal MARHFOUR | ABS Design",
+    "aboutDescription": "Discover the story and expertise of Amal MARHFOUR, renowned interior architect and founder of ABS Design.",
+    "servicesTitle": "Interior Architecture Services | ABS Design",
+    "servicesDescription": "Comprehensive interior architecture services: design, 3D concept, supervision, turnkey renovation, woodwork and more.",
+    "portfolioTitle": "Projects & Portfolio | ABS Design",
+    "portfolioDescription": "Discover our interior architecture achievements: villas, apartments, offices, banks and more."
+  }
+}
